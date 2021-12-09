@@ -128,12 +128,12 @@ limitawal = '20'
 ovo = "0882-1329-2687";
 pulsa = "0813-1994-4917";
 dana = "0813-1994-4917"
-namabot = "JOJO - BOT";
+namabot = "B O T N O L E P";
 linkimg = "https://telegra.ph/file/fb08daf350ee2092c200f.jpg";
 /*ITU YG DI ATAS LINK IMAGENYA DONASI DANA YA KAWAN*/
 grupct = "https://chat.whatsapp.com/HECLovHbCI6LVVH4Q8FN2C";
-owner = "6281319944917";
-nama_owner = "Arasyaaa";
+owner = "6287845756802";
+nama_owner = "FaizzXd";
 instagram = "sofunsyabi.id";
 yt = "https://youtube.com/channel/UCZzt-Qw0zTYc8UP-LL2G5fA";
 fake = "JOJO - BOT";
